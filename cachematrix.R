@@ -1,4 +1,4 @@
-## For Coursera Course "R Programming", this is assignment 2
+## For Coursera Course "R Programming", this is assignment 2.
 ## One function will make a matrix that can cache its inverse.
 ## The other function will compute the inverse by either solving
 ## or retrieving the cached solution if it already exists.
